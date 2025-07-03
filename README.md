@@ -6,9 +6,7 @@
 - 👯 I’m looking to collaborate on **cool business analytics and data-driven projects**.
 - 💬 Ask me about **Business Analytics** or my experience as a **Business Analyst**.
 - 📫 How to reach me:  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ahmad-shahab-/)  
-  [![X](https://img.shields.io/badge/X-000000?style=flat&logo=X&logoColor=white)](https://x.com/ahmad071201?s=21)  
-  📧 [ahmad.shahab0007@gmail.com](mailto:ahmad.shahab0007@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ahmad-shahab-/)  [![X](https://img.shields.io/badge/X000000style=flat&logo=X&logoColor=white)](https://x.com/ahmad071201?s=21)   📧 [ahmad.shahab0007@gmail.com](mailto:ahmad.shahab0007@gmail.com)
 
 ## About Me
 - My name is **Ahmad Shahab**.
