@@ -19,7 +19,7 @@
 Here are some of my key projects:
 
 - 📊 [SALES-AND-FINANCIAL-ANALYSIS-REPORT](https://github.com/AhmadShahab07/SALES-AND-FINANCIAL-ANALYSIS-REPORT)  
-- 🏨 [Hospitality-Domain-Analysis](https://github.com/AhmadShahab07/Hospitality-Domain-Analysis)
+- 🏨 [HOSPITALITY-DOMAIN-ANALYSIS](https://github.com/AhmadShahab07/HOSPITALITY-DOMAIN-ANALYSIS)  
 
 
 
