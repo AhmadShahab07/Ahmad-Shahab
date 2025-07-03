@@ -18,10 +18,10 @@
 ## 🚀 Projects  
 Here are some of my key projects:
 
-- 📊 **Sales and Financial Analysis**  
-  [🔗 Project](https://github.com/ahmadshahab07/Atliq-Hardware-Sales-Financial-Analysis)
-- 🏨 **Hospitality Domain Power BI Analysis**  
-  [🔗 Project](https://github.com/AhmadShahab07/Hospitality-Domain-Analysis)
+- 📊 [SALES-AND-FINANCIAL-ANALYSIS-REPORT](https://github.com/AhmadShahab07/SALES-AND-FINANCIAL-ANALYSIS-REPORT)  
+- 🏨 [Hospitality-Domain-Analysis](https://github.com/AhmadShahab07/Hospitality-Domain-Analysis)
+
+
 
 ## 📈 GitHub Stats  
 ![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmadshahab07&show_icons=true&theme=default&hide_rank=true)
