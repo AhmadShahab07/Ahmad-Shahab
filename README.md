@@ -1,6 +1,6 @@
 # 💡 I’m **Ahmad Shahab**
 
-# Welcome to my GitHub corner! 👋  
+# Welcome to my GitHub corner!   
 - 💬 Ask me about **Business Analytics**  
 - 🤝 I’m looking to collaborate on **exciting business analytics and data-driven projects**  
 - 🤖 I’m currently learning **Artificial Intelligence** to enhance my data science capabilities  
@@ -18,7 +18,7 @@
 ## 🚀 Projects  
 Here are some of my key projects:
 
-- 📊 **Sales and Financial Analysis (Power BI)**  
+- 📊 **Sales and Financial Analysis**  
   [🔗 View on GitHub](https://github.com/ahmadshahab07/Atliq-Hardware-Sales-Financial-Analysis)
 
 ## 📈 GitHub Stats  
