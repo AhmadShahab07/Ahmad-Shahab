@@ -20,6 +20,8 @@ Here are some of my key projects:
 
 - 📊 **Sales and Financial Analysis**  
   [🔗 View on GitHub](https://github.com/ahmadshahab07/Atliq-Hardware-Sales-Financial-Analysis)
+- 🏨 **Hospitality Domain Power BI Analysis**  
+  [🔗 View Project](https://github.com/AhmadShahab07/Hospitality-Domain-Analysis)
 
 ## 📈 GitHub Stats  
 ![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmadshahab07&show_icons=true&theme=default&hide_rank=true)
